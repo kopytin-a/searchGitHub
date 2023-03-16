@@ -4,6 +4,7 @@
 Работа с github API.  
 
 :white_check_mark: Поле ввода (для подстроки поиска).  
+:white_check_mark: Поиск происходит по полю "name".  
 :white_check_mark: Если символов недостаточно, то сообщения об ошибке.  
 :white_check_mark: Форма срабатывает по кнопке или по "Enter".  
 
