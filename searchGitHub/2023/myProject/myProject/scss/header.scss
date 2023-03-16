@@ -1,0 +1,86 @@
+.header {
+    background-color: #FFFFFF;
+  }
+  
+  .header__row{
+    padding: 25px 0px 0px 0px;
+    display: flex;
+  }
+  
+  .header__body{
+    display: flex;
+  }
+  
+  .header__img{
+    margin: 0px 5px 0px 0px;
+    height: 50px;
+  }
+  
+  .header__h1{
+    margin: 10px 25px 0px 0px;
+    font-size: 36px;
+    font-weight: 700;
+  }
+  
+  .header__input{
+    margin: 0px 10px 0px 0px;
+    border: 1px solid #000;
+    border-radius: 30px;
+    min-width: 1000px;
+    font-size: 18px;
+    padding: 0px 0px 0px 30px;
+  }
+  
+  .header__button{
+    background-color: #000;
+    color: #FFFFFF;
+    min-width: 150px;
+    border-radius: 30px;
+    font-size: 16px;
+  }
+  
+  .header__hr{
+    background-color: #828282;
+    margin: 30px 0px 5px 0px;
+    height: 1px;
+  }
+  
+  .header_p{
+    padding: 10px 0px 0px 0px;
+    color: #f00606;
+    font-size: 18px;
+    display: none;
+  }
+  
+  .header_none{
+    padding: 10px 0px 0px 0px;
+    color: #f00606;
+    font-size: 18px;
+    display: none;
+  }
+  
+  .hrefsName {
+    font-size: 22px;
+    color: #1e06f7;
+    &:hover {
+      color: #f00606;
+    }
+  }
+  
+  .logins{
+    margin: 10px 0px 10px 0px;
+  
+  }
+  
+  .hrefsProfile{
+    color: #1e06f7;
+    &:hover {
+      color: #f00606;
+    }
+  }
+  
+  .border {
+    background-color: #EFEFEF;
+    margin: 10px 0px;
+    height: 1px;
+  }
